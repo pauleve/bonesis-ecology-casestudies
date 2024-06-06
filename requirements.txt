@@ -1,0 +1,5 @@
+networkx
+pandas
+colomoto_jupyter
+tqdm
+bonesis==0.6.5
