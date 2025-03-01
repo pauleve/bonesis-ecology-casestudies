@@ -1,7 +1,8 @@
-# bonesis-protists
 
-Supplementary material for Boolean network inference for protists systems
+Supplementary material for Boolean network inference for protists and planktonic systems
 
-Notebook: [Inferences.ipynb](Inferences.ipynb)
+Notebooks:
+* [Protist-inferences.ipynb](Protist-Inferences.ipynb)
+* [Plankton-inferences.ipynb](Plankton-Inferences.ipynb)
 
 See [`requirements.txt`](requirements.txt) for Python dependencies.
